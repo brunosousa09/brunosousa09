@@ -56,9 +56,9 @@
 - ✅ Desenvolvimento Web com HTML, CSS, JavaScript
 - ✅ Django + PostgreSQL
 - ✅ React e React Native
+- ✅ Automações com Selenium
+- ✅ Dashboards interativos com Streamlit
 - 🔄 TypeScript + Node.js
-- 🔄 Automações com Selenium
-- 🔄 Dashboards interativos com Streamlit
 - 📌 Em breve: Docker, CI/CD, testes automatizados
 
 ---

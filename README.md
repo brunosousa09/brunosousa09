@@ -28,7 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css3)
 
 #### 🛠️ Outros
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)
